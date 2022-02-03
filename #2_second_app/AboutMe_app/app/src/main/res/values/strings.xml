@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Hashem alkesahwi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">this is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text
+    this is a very long textthis is a very long textthis is a very long textthis is a very long text</string>
+    <string name="nick_name_hint">Enter Your Nick Name</string>
+    <string name="done">Done</string>
+</resources>
